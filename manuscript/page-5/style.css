@@ -1,5 +1,6 @@
 blockquote {
     font-family: 'EB Garamond', serif;
+    font-size: 3.5vw;
     margin: 2vh 0;
     padding: 0;
     quotes: "\201C""\201D""\2018""\2019";
